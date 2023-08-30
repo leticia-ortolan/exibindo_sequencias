@@ -1,5 +1,5 @@
-sequencia=0
+sequencia=200
 
-while sequencia <=200:
+while sequencia >= 25:
     print(sequencia)
-    sequencia= sequencia+25
+    sequencia = sequencia/2
